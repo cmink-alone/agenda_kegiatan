@@ -1,0 +1,12 @@
+.calendar-shortcut {
+    background-image: url(../images/calendar.png);
+}
+.add {
+    background-image: url(../images/add.png);
+}
+.edit {
+    background-image: url(../images/edit.png);
+}
+.delete {
+    background-image: url(../images/delete.png);
+}
